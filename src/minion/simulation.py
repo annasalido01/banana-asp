@@ -4,4 +4,4 @@ def say_hi(nombre = "caracol"):
     if coin:
         print("hi", nombre)
     else:
-        print("bye", nombre)
+        print("bye bye", nombre)
